@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kmj-test01/static/css/main.f855e6bc.css",
+    "main.js": "/kmj-test01/static/js/main.4ad13247.js",
+    "static/js/453.66bc0eed.chunk.js": "/kmj-test01/static/js/453.66bc0eed.chunk.js",
+    "static/media/logo.svg": "/kmj-test01/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kmj-test01/index.html",
+    "main.f855e6bc.css.map": "/kmj-test01/static/css/main.f855e6bc.css.map",
+    "main.4ad13247.js.map": "/kmj-test01/static/js/main.4ad13247.js.map",
+    "453.66bc0eed.chunk.js.map": "/kmj-test01/static/js/453.66bc0eed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4ad13247.js"
+  ]
+}
